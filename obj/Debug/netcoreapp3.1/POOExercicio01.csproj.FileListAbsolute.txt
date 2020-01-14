@@ -1,0 +1,11 @@
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\bin\Debug\netcoreapp3.1\POOExercicio01.exe
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\bin\Debug\netcoreapp3.1\POOExercicio01.deps.json
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\bin\Debug\netcoreapp3.1\POOExercicio01.runtimeconfig.json
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\bin\Debug\netcoreapp3.1\POOExercicio01.runtimeconfig.dev.json
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\bin\Debug\netcoreapp3.1\POOExercicio01.dll
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\bin\Debug\netcoreapp3.1\POOExercicio01.pdb
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\obj\Debug\netcoreapp3.1\POOExercicio01.csprojAssemblyReference.cache
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\obj\Debug\netcoreapp3.1\POOExercicio01.AssemblyInfoInputs.cache
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\obj\Debug\netcoreapp3.1\POOExercicio01.AssemblyInfo.cs
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\obj\Debug\netcoreapp3.1\POOExercicio01.dll
+C:\Users\CLGS\source\repos\POOExercicio01\POOExercicio01\obj\Debug\netcoreapp3.1\POOExercicio01.pdb
